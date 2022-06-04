@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Biodata Room Database</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="no_data_found">No Data Found</string>
+</resources>
